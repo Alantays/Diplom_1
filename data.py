@@ -1,6 +1,7 @@
 from praktikum.bun import Bun
 from praktikum.ingredient import Ingredient
 from praktikum.ingredient_types import INGREDIENT_TYPE_SAUCE, INGREDIENT_TYPE_FILLING
+
 #Buns
 test_buns = [
     Bun('black bun', 100),
